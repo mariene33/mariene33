@@ -1,16 +1,21 @@
-### Hi there 👋
+###¡Bienvenido/a a mi perfil! 👋
+Sobre mí
+¡Hola! Soy Marina una desarrolladora JUNIOR apasionada de la tecnología y la programación. Me encanta explorar nuevas ideas y aprender cosas nuevas cada día. Mi objetivo es crear soluciones innovadoras y eficientes que tengan un impacto positivo en la sociedad.
 
-<!--
-**mariene33/mariene33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades
+💻 Desarrollo de software: Tengo experiencia en diversos lenguajes de programación, incluyendo PHP, JavaScript, React, HTML, CSS...
+Me gusta enfrentar desafíos y encontrar soluciones elegantes y robustas.
+🌐 Desarrollo web: He trabajado en proyectos de desarrollo web utilizando HTML, CSS y frameworks como React y Django. Me encanta diseñar interfaces atractivas y amigables para el usuario.
+🤖 Inteligencia artificial: Me fascina el campo de la IA y he explorado el aprendizaje automático y el procesamiento del lenguaje natural en proyectos personales y académicos.
+🚀 DevOps: Estoy familiarizado/a con el despliegue de aplicaciones en la nube y el uso de herramientas como Docker para garantizar una infraestructura eficiente y escalable.
 
-Here are some ideas to get you started:
+¡Me encantaría mantenerme en contacto contigo! Puedes encontrarme en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/marina-lopez-ortega-46280627b/)
+[Instagram](@mariene_flyaway)
+[Sitio web personal](EN CONSTRUCCIÓN)
+¡Gracias por visitar mi perfil! Siempre estoy buscando nuevos proyectos y oportunidades emocionantes para seguir creciendo como profesional y persona. ¡Hablemos pronto! 😉
+
+
+
+
